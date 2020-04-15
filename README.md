@@ -1,4 +1,6 @@
-# select-date-mobile
+# select-date-mobile 日期选择 使用Vue,moment,vant
+
+![](./src/assets/example.gif)
 
 ## Project setup
 ```
