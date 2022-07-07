@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-plugin-import": "^1.13.0",
     "core-js": "^3.6.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vant": "^2.6.1",
     "vue": "^2.6.11",
     "vue-moment": "^4.1.0"
